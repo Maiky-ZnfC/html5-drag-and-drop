@@ -1,0 +1,15 @@
+div{
+	height: 300px;
+	width: 350px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#div1{
+	background: black;
+}
+
+#div2{
+	background: red;
+}
